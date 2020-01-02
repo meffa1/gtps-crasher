@@ -2,8 +2,9 @@
 A Gtps Crasher Made From C++ 
 Crasher Has Created By Meffa With Visual Studio 2019
 
-#***How To Usage?***
-Windows :
+***How To Usage?***
+
+***Windows :***
 1)Download Meffa Test.exe
 2)Put In Vps Target
 3)And Run As Administrator
