@@ -7,7 +7,7 @@ This Application Compiled By Visual Studio 2019!(Visual Studio 2019 Older Is Not
 
 This Application Source Is C++ And Build Tools Visual Studio 2019
 
-For Support Visual Studio >> [CLICK HERE](https://github.com/meffa1/blob/master/SUPPORT.json)
+For Support Visual Studio >> [CLICK HERE](https://github.com/meffa1/gtps-crasher/blob/master/SUPPORT.json)
 
 ***How To Usage?***
 
